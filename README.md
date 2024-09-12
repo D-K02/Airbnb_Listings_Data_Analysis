@@ -6,28 +6,33 @@ This project analyzes Airbnb listings data from New York City to uncover key ins
 
 1. Neighborhood Group Analysis
 Popular Areas: Manhattan and Brooklyn host the majority of listings, attracting more tourists due to proximity to key landmarks like Times Square and the Brooklyn Bridge.
+
 Opportunity Areas: Queens and the Bronx have fewer listings, offering potential growth opportunities for new hosts.
 
-2. Room Type Preferences
+3. Room Type Preferences
 Entire Homes Dominate: Most listings are for Entire homes/apartments, catering to travelers who prefer privacy.
+
 Private Rooms: There is also significant demand for Private rooms, especially among budget-conscious visitors.
 
-3. Price Trends
+5. Price Trends
 High Prices in Manhattan: Listings in Manhattan command higher prices due to their central location.
+
 Affordable Options in Outer Boroughs: Queens and Bronx offer more affordable accommodations while still providing easy access to the city.
 
-4. Revenue Potential
+7. Revenue Potential
 Top Revenue Areas: Listings in luxury areas of Manhattan generate the highest revenue.
+
 Growth Opportunities: Hosts in underrepresented areas could increase revenue by targeting longer stays and offering competitive pricing.
 
-5. Review and Ratings Insights
+9. Review and Ratings Insights
 Popular Listings Have More Reviews: Listings with the most reviews are generally found in Manhattan and Brooklyn, indicating guest satisfaction.
+
 Impact on Pricing: Listings with better reviews can command higher prices, showing the importance of maintaining positive guest experiences.
 
-6. Seasonal Trends
+11. Seasonal Trends
 Summer and Holiday Peaks: Bookings increase during summer months and holidays, providing hosts with opportunities to adjust prices and maximize revenue.
 
-7. Occupancy Insights
+12. Occupancy Insights
 High Availability in Outer Boroughs: Listings in Queens and Bronx often have higher availability, indicating underutilization. Adjusting pricing strategies may help improve occupancy rates.
 
 ## How to Use the Project
