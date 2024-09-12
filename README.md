@@ -38,7 +38,7 @@ git clone https://github.com/D-K02/Airbnb_Listings_Data_Analysis.git
 Open the .pbix file in Power BI Desktop to explore the visuals and insights.
 
 ## LinkedIn Post
-Check out my LinkedIn post to learn more about this project and join the conversation: [[LinkedIn Post Link Here]](https://www.linkedin.com/feed/update/urn:li:ugcPost:7240030316348735488/)
+Check out my LinkedIn post to learn more about this project and join the conversation: [[LinkedIn Post]](https://www.linkedin.com/feed/update/urn:li:ugcPost:7240030316348735488/)
 
 ## Conclusion
 This analysis reveals key patterns in Airbnb listings across New York City. It provides valuable insights for hosts to optimize their listings, target the right markets, and improve guest experiences.
